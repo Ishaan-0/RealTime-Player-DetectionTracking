@@ -6,7 +6,7 @@ This project uses a **fine-tuned YOLOv11 model** to detect soccer players and a 
 
 ## 🚀 Setup Instructions
 
-### 1. Clone the Repository
+### Clone the Repository
 ```bash
 git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
