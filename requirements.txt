@@ -1,0 +1,5 @@
+ultralytics
+supervision
+deep_sort_realtime
+opencv-python
+torch
